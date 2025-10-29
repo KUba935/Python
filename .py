@@ -1,15 +1,9 @@
-#x = 2
+print('Jak chcesz zamienić?')
+print('A) C na F')
+print('B) F na C')
+zamiana = (input('a wiec co chcesz zmienic? '))   
+if zamiana == 'A':
+    print('podaj celcjusze')
+    
 
-#if x % 2 == 0:
-#    print('Liczba jest parzysta')
-#else:
-#    print('Liczba nie jest parzysta')
-
-#x = int(input('Podaj wiek: '))
-
-#if x < 18:
-
-#    print('Jesteś nastolatkiem')
-#else:
-#    print('Jesteś dorosłym')
 
