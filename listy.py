@@ -27,7 +27,7 @@ slownik = {
 slownik["Mateusz"] = 85
 print(slownik)
 
-del slownik["Leon"]
+del slownik["Jakub"]
 print(slownik)
 
 if "Ada" in slownik:
