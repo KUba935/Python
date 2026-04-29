@@ -61,6 +61,12 @@ while(True):
         wypozycz()
     elif Reigns == '4':
         oddaj()
+	    elif Reigns == '5'
+        oblicz()
+    elif Reigns == '6'
+        print(rower1, rower3)
+    elif Reigns == 'X'
+        break
 
 
  
